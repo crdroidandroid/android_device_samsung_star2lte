@@ -41,6 +41,3 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
         PRODUCT_NAME=star2ltexx \
         PRIVATE_BUILD_DESC="star2ltexx-user 10 QP1A.190711.020 G965FXXU8DTC5 release-keys"
 
-# OTA
-PRODUCT_PROPERTY_OVERRIDES += \
-    lineage.updater.uri=https://raw.githubusercontent.com/synt4x93/OTA/master/star2lte.json
